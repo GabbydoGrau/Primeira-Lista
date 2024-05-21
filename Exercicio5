@@ -1,0 +1,3 @@
+const gabby = 9;
+
+console.log("o valor da constante é:" + gabby); 
