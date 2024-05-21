@@ -1,3 +1,5 @@
 var numero = prompt ("Digite um número");
+
 numero = parseInt(numero);
+
 console.log("o número digitado foi:" + numero);
