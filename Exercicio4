@@ -1,0 +1,5 @@
+var dia = prompt ("Digite o dia:");
+var mes = prompt ("Digite o mês");
+var ano = prompt ("Digite o ano"); 
+
+console.log("dia / mes / ano"); 
