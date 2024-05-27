@@ -1,0 +1,10 @@
+//exercicio1 
+
+const string1 = "inicio do programa";
+const string2 = "fim";
+
+const comeco = string1;
+const final = string2;
+
+console.log(comeco);
+console.log(final); 
