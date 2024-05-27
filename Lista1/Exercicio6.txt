@@ -1,0 +1,3 @@
+var caractere = ("Digite um caractere:");
+
+console.log("caractere"); 
