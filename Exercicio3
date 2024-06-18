@@ -1,3 +1,0 @@
-let numero = 7;
-
-console.log("Valor da variável:" + numero); 
