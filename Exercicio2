@@ -1,3 +1,0 @@
-let numeroInteiro = 7;
-
-console.log(numeroInteiro);
