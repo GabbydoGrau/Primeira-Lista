@@ -1,5 +1,0 @@
-var dia = ("Digite o dia:");
-var mes = ("Digite o mês");
-var ano = ("Digite o ano"); 
-
-console.log(dia + "/" +  mes + "/" + ano); 
