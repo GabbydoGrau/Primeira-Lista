@@ -1,3 +1,0 @@
-const gabby = 9;
-
-console.log(gabby); 
